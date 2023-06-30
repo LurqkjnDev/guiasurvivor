@@ -1,0 +1,74 @@
+.ellie {
+    cursor: pointer;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(28, 29, 29);
+    transition: all 0.7s;
+
+}
+
+.ellie:hover {
+    width: 350px;
+    height: 400px;
+}
+
+.column_card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.joel {
+    cursor: pointer;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(28, 29, 29);
+    transition: all 0.7s;
+
+}
+
+#testePageId{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.joel:hover {
+    width: 350px;
+    height: 400px;
+
+
+}
+
+.cards{
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+}
+.abby {
+    cursor: pointer;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(28, 29, 29);
+    transition: all 0.7s;
+
+}
+
+.abby:hover {
+    width: 350px;
+    height: 400px;
+}
+.dina{
+    cursor: pointer;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(28, 29, 29);
+    transition: all 0.7s;
+
+}
+
+.dina:hover {
+    width: 350px;
+    height: 400px;
+}
